@@ -1,0 +1,26 @@
+[
+    {
+        "id": "01",
+        "name": "Motivational"
+    },
+    {
+        "id": "02",
+        "name": "Paranormal"
+    },
+    {
+        "id": "03",
+        "name": "Historical fiction"
+    },
+    {
+        "id": "04",
+        "name": "Cookbook"
+    },
+    {
+        "id": "05",
+        "name": "Science Fiction"
+    },
+    {
+        "id": "06",
+        "name": "Children’s"
+    }
+]

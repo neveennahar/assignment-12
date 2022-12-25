@@ -1,0 +1,212 @@
+[
+    {
+        "category_id": "01",
+        "rating": {
+            "number": 4.6,
+            "badge": "Excellent"
+        },
+        "price": 209,
+        "title": "The Subtle Art of Not Giving a F*ck",
+        "author": {
+            "name": "Mark Manson",
+            "published_date": "September 13, 2016"
+        },
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1651074858l/60892816._SY475_.jpg",
+        "details": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life is a 2016 nonfiction self-help book by American blogger and author Mark Manson."
+    },
+    {
+        "category_id": "01",
+        "rating": {
+            "number": 4.7,
+            "badge": "Excellent"
+        },
+        "price": 409,
+        "title": "HOW TO WIN FRIENDS and INFLUENCE PEOPLE",
+        "author": {
+            "name": "Dale Carnegie",
+            "published_date": "October 1936"
+        },
+        "image_url": "https://static-01.daraz.com.bd/p/ede5bbac73297b33d25590d74915b6be.png",
+        "details": "How to Win Friends and Influence People is a 1936 self-help book written by Dale Carnegie. Over 30 million copies have been sold worldwide, making it one of the best-selling books of all time. Carnegie had been conducting business education courses in New York since 1912."
+    },
+    {
+        "category_id": "01",
+        "rating": {
+            "number": 3.9,
+            "badge": "Good"
+        },
+        "price": 209,
+        "title": "The Alchemist",
+        "author": {
+            "name": "Paulo Coelho",
+            "published_date": "1988"
+        },
+        "image_url": "https://jameskennedymonash.files.wordpress.com/2013/06/the-alchemist-paulo-coelho.jpg",
+        "details": "The Alchemist is a novel by Brazilian author Paulo Coelho which was first published in 1988. Originally written in Portuguese, it became a widely translated international bestseller"
+    },
+    {
+        "category_id": "02",
+        "rating": {
+            "number": 4.2,
+            "badge": "Good"
+        },
+        "price": 209,
+        "title": "Dark Lover",
+        "author": {
+            "name": "Jessica Bird",
+            "published_date": "September 6, 2005"
+        },
+        "image_url": "https://m.media-amazon.com/images/I/51zExmqyrvL._AC_SY780_.jpg",
+        "details": "See where it all began in the first phenomenal novel in the #1 New York Times bestselling Black Dagger Brotherhood series... The only purebred vampire left on the planet and the leader of the Black Dagger Brotherhood, Wrath has a score to settle with the slayers who killed his parents centuries ago"
+    },
+    {
+        "category_id": "02",
+        "rating": {
+            "number": 4,
+            "badge": "Good"
+        },
+        "price": 209,
+        "title": "Dead Until Dark",
+        "author": {
+            "name": "Charlaine Harris",
+            "published_date": "1988"
+        },
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468560853l/301082._SY475_.jpg",
+        "details": "Dead Until Dark, published in 2001, is the first novel in Charlaine Harris' series The Southern Vampire Mysteries. It was adapted into True Blood's first season."
+    },
+    {
+        "category_id": "03",
+        "rating": {
+            "number": 4.6,
+            "badge": "Good"
+        },
+        "price": 209,
+        "title": "The Nightingale",
+        "author": {
+            "name": "Kristin Hannah",
+            "published_date": "February 3, 2015"
+        },
+        "image_url": "https://static-01.daraz.com.bd/p/6474511e112a244f7ca01d9573cb4054.jpg",
+        "details": "The Nightingale is a historical fiction novel by American author Kristin Hannah published by St. Martin's Press in 2015. The book tells the story of two sisters in France during World War II and their struggle to survive and resist the German occupation of France."
+    },
+    {
+        "category_id": "03",
+        "rating": {
+            "number": 4.3,
+            "badge": "Good"
+        },
+        "price": 409,
+        "title": "A Gentleman in Moscow",
+        "author": {
+            "name": "Amor Towles",
+            "published_date": "September 6, 2016"
+        },
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468560853l/301082._SY475_.jpg",
+        "details": "A Gentleman in Moscow is a 2016 novel by Amor Towles. It is his second novel, published five years after his New York Times best seller, Rules of Civility."
+    },
+    {
+        "category_id": "04",
+        "rating": {
+            "number": 4.3,
+            "badge": "Good"
+        },
+        "price": 409,
+        "title": "All-Time Best Recipes",
+        "author": {
+            "name": "Amor Towles",
+            "published_date": "September 6, 2016"
+        },
+        "image_url": "https://m.media-amazon.com/images/I/517R5q6fK9L.jpg",
+        "details": "A Gentleman in Moscow is a 2016 novel by Amor Towles. It is his second novel, published five years after his New York Times best seller, Rules of Civility."
+    },
+    {
+        "category_id": "04",
+        "rating": {
+            "number": 4.7,
+            "badge": "Good"
+        },
+        "price": 409,
+        "title": "Simple & Delicious Cookbook",
+        "author": {
+            "name": "Amor Towles",
+            "published_date": "September 13, 2016"
+        },
+        "image_url": "https://2.bp.blogspot.com/-dAieyzjktCY/V9_Rfo9RZ2I/AAAAAAAAF_A/eJIzbOeioFUKGpR4N0ZVjC05U9MeuDDHgCLcB/s1600/IMG_4385.PNG",
+        "details": "Sharing family meals is a snap with Taste of Home Simple & Delicious Cookbook. It’s packed with 1,314 quick & easy recipes, including 30-minute dinners, weeknight menus, potluck favorites, quick snacks and more. So, you’ll always have time to serve up hearty, homemade dishes, even on busy weeknights!"
+    },
+    {
+        "category_id": "05",
+        "rating": {
+            "number": 4.9,
+            "badge": "Excellent"
+        },
+        "price": 409,
+        "title": "Frankenstein",
+        "author": {
+            "name": "Mary Shelley",
+            "published_date": " January 1, 1818"
+        },
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Frankenstein_poster_1931.jpg/800px-Frankenstein_poster_1931.jpg",
+        "details": "Frankenstein; or, The Modern Prometheus is an 1818 novel written by English author Mary Shelley. Frankenstein tells the story of Victor Frankenstein, a young scientist who creates a sapient creature in an unorthodox scientific experiment"
+    },
+    {
+        "category_id": "05",
+        "rating": {
+            "number": 4.7,
+            "badge": "Good"
+        },
+        "price": 409,
+        "title": "The Time Machine",
+        "author": {
+            "name": "H. G. Wells",
+            "published_date": "September 13, 2016"
+        },
+        "image_url": "http://2.bp.blogspot.com/-EImHyLbYzSM/Trr6XdSxqmI/AAAAAAAAAi0/495ZDAbLoE4/s1600/the+time+machine.jpg",
+        "details": "The Time Machine is a science fiction novella by H. G. Wells, published in 1895. The work is generally credited with the popularization of the concept of time travel by using a vehicle or device to travel purposely and selectively forward or backward through time."
+    },
+    {
+        "category_id": "05",
+        "rating": {
+            "number": 4.7,
+            "badge": "Good"
+        },
+        "price": 409,
+        "title": "The Martian",
+        "author": {
+            "name": " Andy Weir",
+            "published_date": "2011"
+        },
+        "image_url": "https://m.media-amazon.com/images/I/A1ASEl5HBZL.jpg",
+        "details": "The Martian is a 2011 science fiction debut novel written by Andy Weir. The book was originally self-published on Weir's blog, in a serialized format. In 2014, the book was re-released after Crown Publishing Group purchased the exclusive publishing rights."
+    },
+    {
+        "category_id": "06",
+        "rating": {
+            "number": 4.7,
+            "badge": "Good"
+        },
+        "price": 409,
+        "title": "Goodnight Moon",
+        "author": {
+            "name": "Margaret Wise Brown",
+            "published_date": "September 13, 2016"
+        },
+        "image_url": "https://m.media-amazon.com/images/I/51mJ4OaKZBL._AC_SY780_.jpg",
+        "details": "Goodnight Moon is an American children's book written by Margaret Wise Brown and illustrated by Clement Hurd. It was published on September 3, 1947, and is a highly acclaimed bedtime story. This book is the second in Brown and Hurd's classic series, which also includes The Runaway Bunny and My World."
+    },
+    {
+        "category_id": "06",
+        "rating": {
+            "number": 4.7,
+            "badge": "Good"
+        },
+        "price": 409,
+        "title": "Harry Potter and the Philosopher's Stone",
+        "author": {
+            "name": "J. K. Rowling",
+            "published_date": "June 26, 1997"
+        },
+        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+        "details": "Harry Potter and the Philosopher's Stone is a 1997 fantasy novel written by British author J. K. Rowling."
+    }
+]
